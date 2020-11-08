@@ -1,4 +1,4 @@
-# Entwicklung einer KI die Texte verstehen kann
+# Entwicklung einer, KI die Texte verstehen kann
 
 Diese Repo gehört zu den doiit-Beiträgen von [kindustrii](https://www.kindustrii.de).
 Ich zeige hier Schritt für Schritt auf, wie eine KI bzw. ein neuronales Netz erstellt wird, das in der Lage ist Texte zu verarbeiten.
