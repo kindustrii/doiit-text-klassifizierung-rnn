@@ -1,1 +1,1 @@
-# doiit-text-klassifizierung-rnn
+# Entwicklung einer KI die Texte verstehen kann
