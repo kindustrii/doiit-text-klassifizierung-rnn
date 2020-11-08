@@ -1,7 +1,7 @@
 # Entwicklung einer, KI die Texte verstehen kann
 
 Diese Repo gehört zu den doiit-Beiträgen von [kindustrii](https://www.kindustrii.de).
-Ich zeige hier Schritt für Schritt auf, wie eine KI bzw. ein neuronales Netz erstellt wird, das in der Lage ist Texte zu verarbeiten.
+Hier zeige ich Schritt für Schritt auf, wie eine KI bzw. ein neuronales Netz erstellt wird, das in der Lage ist Texte zu verarbeiten.
 
 Eine KI die Texte verarbeitet, kann z.B. für die folgenden Aufgaben verwendet werden:
 - Erkennen um welches Thema es sich in dem Text handelt
