@@ -16,11 +16,12 @@ Diese Art von KI ist heute schon weit verbreitet. Sie wird z.B. für Chat-Bots, 
 
 In diesem Beispiel hier werden wir eine KI entwickeln, die eine Filmbewertung analysieren soll. Bei diesen Filmbewertungen bzw. Rezessionen handelt es sich um echte Filmbewertungen, die von Menschen erstellt wurden. Die KI wird anhand des Textes erkennen, ob die Rezession positiv oder negativ ist. In anderen Worten: Die KI erkennt, ob der Film dem Verfasser der Rezession gefallen hat oder nicht.
 
-## Welche Hindernisse sind zu bewältigen?
+## 1. Problemanalyse 
 
-Wenn die KI unsere entwickelt ist, bekommt sie eine Filmrezension, die sie noch nie gesehen hat und soll uns sagen, ob es eine positive oder native Rezession ist. Damit sie das auch richtig macht, werden wir das Neuronale Netz trainieren müssen. Im Training erhält sie von uns viele positive und negative Rezessionen vorgelegt. Es handelt sich hier um das Supervised Learning.
+Wenn die KI entwickelt ist, bekommt sie eine Filmrezension, die sie noch nie gesehen hat und soll uns sagen, ob es eine positive oder native Rezession ist. Damit sie das auch richtig macht, werden wir das Neuronale Netz trainieren müssen. Im Training erhält sie von uns viele positive und negative Rezessionen vorgelegt. Es handelt sich hier um das Supervised Learning.
 
-Das Verarbeiten, bzw. in unserem Fall das Klassifizieren von Texten bringt gewisse Besonderheiten bzw. Herausforderungen mit, die eine KI bewerkstelligen muss. 
+Das Verarbeiten, bzw. in unserem Fall das Klas
+sifizieren von Texten bringt gewisse Besonderheiten bzw. Herausforderungen mit, die eine KI bewerkstelligen muss. 
 
 ### Reihenfolge der Wörter
 
@@ -60,3 +61,7 @@ Da Neuronale Netze mit Zahlen arbeiten, müssen die Wörter erstmal in Zahlen ge
 ### Bei Texten handelt es sich um Zeitreihen bzw. um Sequenzen
 
 Wenn das Neuronale Netz einen Text der aus 6 einzelnen Sätzen besteht verarbeitet und ist am vierten Satz angekommen, dann muss es die vorherigen 3 Sätze berücksichtigen, um den vierten Satz richtig zu verstehen. Dafür wird eine besondere Architektur des Neuronalen Netzes benötigt, die über eine Art Gedächtnis verfügt.
+
+## 2. Lösungsidee
+
+Da es sich hier um einen doiit-Beitrag handelt, werde ich die theoretische Beschreibung der Lösung nur sehr kurz halten und konzentriere mich eher auf den praktischen Teil. Mehr theoretische Details zu den einzelnen Elementen der Lösung findest Du in den techniik-Beiträgen auf [kindustrii](https://www.kindustrii.de).
