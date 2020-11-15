@@ -51,4 +51,12 @@ Es gibt natürlich noch weitere Aspekte, die bei der Verarbeitung von Text zum H
 - Grammatik hat auch großen Einfluss auf die Bedeutung eines Satzes
 - Abkürzungen, Fachbegriffe, Synonyme, Slang, Wörter die es gar nicht gibt (*Froschhaarpinsel*), uvm.
 
-### Die Daten bestehen aus Buchstaben, Woertern und Saetzen 
+### Die Daten bestehen aus Buchstaben, Wörtern und Sätzen 
+
+Ein Neuronales Netz, das Bilder bzw. Fotos analysiert, erhält Daten die aus Zahlen bestehen. Ein Bild mit z.B. der Auslösung 512x512 besteht aus 512 Zeilen mit je 512 Spalten Pixel. Das sind insgesamt 262.144 Pixel. Wobei es sich bei einem Pixel um einen Zahlenwert zwischen 0 und 255 handelt. Jede dieser Zahlen repräsentiert eine Farbe.
+
+Da Neuronale Netze mit Zahlen arbeiten, müssen die Wörter erstmal in Zahlen gewandelt werden. Was sich einfach anhört, ist in Wirklichkeit eine Wissenschaft für sich.
+
+### Bei Texten handelt es sich um Zeitreihen bzw. um Sequenzen
+
+Wenn das Neuronale Netz einen Text der aus 6 einzelnen Sätzen besteht verarbeitet und ist am vierten Satz angekommen, dann muss es die vorherigen 3 Sätze berücksichtigen, um den vierten Satz richtig zu verstehen. Dafür wird eine besondere Architektur des Neuronalen Netzes benötigt, die über eine Art Gedächtnis verfügt.
