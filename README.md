@@ -16,6 +16,8 @@ Diese Art von KI ist heute schon weit verbreitet. Sie wird z.B. für Chat-Bots, 
 
 In diesem Beispiel hier werden wir eine KI entwickeln, die eine Filmbewertung analysieren soll. Bei diesen Filmbewertungen bzw. Rezessionen handelt es sich um echte Filmbewertungen, die von Menschen erstellt wurden. Die KI wird anhand des Textes erkennen, ob die Rezession positiv oder negativ ist. In anderen Worten: Die KI erkennt, ob der Film dem Verfasser der Rezession gefallen hat oder nicht.
 
+**Den Code dazu und die eigentliche KI-Entwicklung findest Du hier:** [doiit-text-klassifizierung-rnn](https://github.com/kindustrii/doiit-text-klassifizierung-rnn/blob/main/doiit_text_klassifizierung_mit_rnn.ipynb)
+
 ## 1. Problemanalyse 
 
 Wenn die KI entwickelt ist, bekommt sie eine Filmrezension, die sie noch nie gesehen hat und soll uns sagen, ob es eine positive oder native Rezession ist. Damit sie das auch richtig macht, werden wir das Neuronale Netz trainieren müssen. Im Training erhält sie von uns viele positive und negative Rezessionen vorgelegt. Es handelt sich hier um das Supervised Learning.
