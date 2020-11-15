@@ -65,3 +65,5 @@ Wenn das Neuronale Netz einen Text der aus 6 einzelnen Sätzen besteht verarbeit
 ## 2. Lösungsidee
 
 Da es sich hier um einen doiit-Beitrag handelt, werde ich die theoretische Beschreibung der Lösung nur sehr kurz halten und konzentriere mich eher auf den praktischen Teil. Mehr theoretische Details zu den einzelnen Elementen der Lösung findest Du in den techniik-Beiträgen auf [kindustrii](https://www.kindustrii.de).
+
+
