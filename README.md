@@ -50,8 +50,8 @@ Schaue Dir die folgenden Aussagen an:
 Die vier oberen Aussagen bedeuten alle das Gleiche. Beachte, dass sie alle unterschiedlich lang sind und bis auf die Wörter *ich* und *mir* keine gleichen Wörter verwenden.
 
 Es gibt natürlich noch weitere Aspekte, die bei der Verarbeitung von Text zum Hindernis werden könnten:
-- Falsche Rechtschreibung kann ein Wort unkenntlich machen, oder die sogar ein ganz anderes Wort daraus machen
-- Grammatik hat auch großen Einfluss auf die Bedeutung eines Satzes
+- Falsche Rechtschreibung kann ein Wort unkenntlich machen, oder sogar ein ganz anderes Wort daraus machen
+- Grammatik hat auch einen großen Einfluss auf die Bedeutung eines Satzes
 - Abkürzungen, Fachbegriffe, Synonyme, Slang, Wörter die es gar nicht gibt (*Froschhaarpinsel*), uvm.
 
 ### Die Daten bestehen aus Buchstaben, Wörtern und Sätzen 
